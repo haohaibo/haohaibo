@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @haohaibo
 - 👀 I’m interested in computer architecture
-- 🌱 I’m currently learning GPU cache
+- 🌱 I’m currently deep learning inference software
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me hhao@nvidia.com
 
