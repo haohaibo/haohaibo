@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @haohaibo
 - 👀 I’m interested in computer architecture
-- 🌱 I’m currently working on deep learning inference software
+- 🌱 I’m currently doing safety inference engine targeting ASIL B
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me hhao@nvidia.com
 
