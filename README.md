@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @haohaibo
 - 👀 I’m interested in computer architecture
-- 🌱 I’m currently doing safety inference engine targeting ASIL B
+- 🌱 I’m currently working on diffusion model perf optimization
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me haohaibo031113@163.com
 
